@@ -1,0 +1,29 @@
+h1 {
+  color: #0473C5;
+}
+
+h2 {
+  font-style: italic;
+  color: #C56504;
+}
+
+h3 {
+  font-style: italic;
+  color: #6DC504;
+}
+
+p {
+  color: #0473C5;
+}
+
+body {
+  background-color: #B1F4EB;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  color: #AB04C5;
+  font-family: sans-serif;
+  text-align: center;
+}
