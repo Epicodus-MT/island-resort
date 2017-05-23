@@ -1,15 +1,15 @@
 h1 {
-  color: #0473C5;
+  color: #0A8D36;
 }
 
 h2 {
-  font-style: italic;
+  font-style: bold;
   color: #C56504;
 }
 
 h3 {
-  font-style: italic;
-  color: #6DC504;
+  font-style: bold;
+  color: #D52661;
 }
 
 p {
@@ -17,13 +17,13 @@ p {
 }
 
 body {
-  background-color: #B1F4EB;
-  font-family: sans-serif;
+  background-color: #A2C7AE;
+  font-family: Verdana;
   text-align: center;
 }
 
 li {
-  color: #AB04C5;
-  font-family: sans-serif;
+  color: #332C7D;
+  font-family: Verdana;
   text-align: center;
 }
